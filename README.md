@@ -27,7 +27,7 @@ This project involves creating an interactive sales dashboard for Amazon using M
 
 Screenshots: 
 
-![DashBoard](![image](https://github.com/user-attachments/assets/ad7ab37e-4c91-47f3-ab73-145bc9edf6a1))
+(![image]([https://github.com/user-attachments/assets/ad7ab37e-4c91-47f3-ab73-145bc9edf6a1](https://github.com/AryanDurge/Amazon--Sales-DashBoard-PowerBi/blob/main/Screenshot%202024-07-17%20003231.png?raw=true)))
 
 (![image](https://github.com/AryanDurge/Amazon--Sales-DashBoard-PowerBi/blob/main/Screenshot%202024-07-17%20003518.png?raw=true)
 
