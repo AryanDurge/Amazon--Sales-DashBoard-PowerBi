@@ -27,6 +27,32 @@ This project involves creating an interactive sales dashboard for Amazon using M
 
 Screenshots: 
 
-![DashBoard]()
+![DashBoard](![image](https://github.com/user-attachments/assets/ad7ab37e-4c91-47f3-ab73-145bc9edf6a1))
+
+(![image](https://github.com/AryanDurge/Amazon--Sales-DashBoard-PowerBi/blob/main/Screenshot%202024-07-17%20003518.png?raw=true)
+
+(![image](https://github.com/AryanDurge/Amazon--Sales-DashBoard-PowerBi/blob/main/Screenshot%202024-07-17%20003532.png?raw=true))
+
+(![image](https://github.com/AryanDurge/Amazon--Sales-DashBoard-PowerBi/blob/main/Screenshot%202024-07-17%20003506.png?raw=true))
+
+
+## Contributing
+Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+
+## Fork the repository.
+
+Create a new branch (git checkout -b feature/YourFeature).
+Make your changes.
+Commit your changes (git commit -m 'Add some feature').
+Push to the branch (git push origin feature/YourFeature).
+Open a pull request.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+For any questions or feedback, feel free to reach out to me at durgearyan9@gmail.com
+
+GitHub Repository: [Amazon-Sales-Dashboard-PowerBI](https://github.com/AryanDurge/Amazon--Sales-DashBoard-PowerBi)
 
    
